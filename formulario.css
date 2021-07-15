@@ -2,10 +2,19 @@
 body{
     background-image: linear-gradient(to right top, #0b0b0b, #0e0e0e, #101011, #131213, #151415, #151314, #141314, #141213, #100e0f, #0c0a0b, #060505, #000000);
     background-attachment: fixed;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+}
+
+/*-Icon-*/
+.arrow{
+    color: green;
+    
 }
 
 .formulario fieldset{
     border-radius:10px;
+    box-shadow:  2px 2px 15px 2px rgb(85, 85, 88);
     
 }
 .formulario legend{
@@ -36,7 +45,7 @@ body{
 
 .formulario form input[type=submit]{
     border:none;
-    margin:50px;
+    margin-top:50px;
     letter-spacing: 5px;
 
 }

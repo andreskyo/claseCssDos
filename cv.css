@@ -3,7 +3,14 @@
 body{
     font-family: 'Benne', serif;
     max-width: 2000px;
-    background-image: linear-gradient(to right top, #d10579, #a71460, #7f1848, #591732, #35131f, #29141f, #1e141b, #141314, #1d1c1e, #262528, #302f32, #39393d);
+    background-image: linear-gradient(to right top, #050e37, #190626, #1a0118, #13000b, #000000);
+}
+
+/*--Icon--*/
+.icon-user{
+    color:white;
+    font-size: 30px;
+    
 }
 
 /*-Pagina-*/
